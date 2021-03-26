@@ -1,0 +1,13 @@
+* {
+    background-color: goldenrod;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.redbackground {
+    background-color:black;
+    color: white;
+}
+
